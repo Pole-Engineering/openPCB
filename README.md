@@ -1,4 +1,4 @@
-# nokta
+# openPCB
 
 WIP
 
